@@ -4,3 +4,14 @@
     position: sticky;
     top: 0;
 }
+.btn-clear{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    background-color: red;
+    color: white;
+    height: 50px;
+    align-items: center;
+    font-size: 21px;
+    margin: 10px auto;
+}
